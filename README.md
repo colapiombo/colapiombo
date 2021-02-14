@@ -1,9 +1,9 @@
 ### Hello, I'm [Paolo Combi](https://combi.li)!
 
 ![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorB=%23007fff)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=colapiombo/colapiombo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=colapiombo/colapiombo)  
 
-I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.
+I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.  
 I like to explore new technologies and share knowledge.  
 Backend Developer @ [Lamia Oy](https://lamia.fi/)
 
