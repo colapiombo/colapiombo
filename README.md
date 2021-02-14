@@ -12,7 +12,7 @@ My educational background combined with my passion, makes me extremely enthusias
 const colapiombo = {
   code: [Php,Javascript, Golang, HTML, CSS,...],
   tools: [NodeJS, Docker,...],
-  challenge: "Following my passion, at the moment I am studying to improve my skills on the integration test and Golang skills"
+  challenge: "I'm trying to improve my skills on the integration test and Golang skills"
 }
 ```
 
