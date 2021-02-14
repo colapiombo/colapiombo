@@ -5,7 +5,7 @@
 
 I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.
 I like to explore new technologies and share knowledge.  
-Backend Developer @ [![GitHub Lamia](https://img.shields.io/github/followers/thaiane?label=Lamia&style=social)](https://github.com/Lamia)
+Backend Developer @ [![GitHub Lamia](https://img.shields.io/github/followers/Lamia?label=Lamia&style=social)](https://github.com/Lamia)
 
 
 
