@@ -1,20 +1,18 @@
-### Hello, I'm [Paolo Combi](https://combi.li)!
+## Hello, I'm [Paolo Combi](https://combi.li) Backend Developer @ [Lamia Oy](https://lamia.fi/)
 
 ![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorB=%23007fff)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=colapiombo/colapiombo)  
 
 I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.  
-I like to explore new technologies and share knowledge.  
-Backend Developer @ [Lamia Oy](https://lamia.fi/)
-
+My educational background combined with my passion, makes me extremely enthusiastic about the opportunity to embrace new technologies.
 
 ### A little more about me... 
 
 ```javascript
 const colapiombo = {
-  code: [Php,Javascript, Golang, HTML, CSS],
-  tools: [NodeJS, Docker,Etc...],
-  challenge: "Improving my English, JS, PHP and Golang skills. Also I'm learning about Testing"
+  code: [Php,Javascript, Golang, HTML, CSS,...],
+  tools: [NodeJS, Docker,...],
+  challenge: "Following my passion, at the moment I am studying to improve my skills on the integration test and Golang skills"
 }
 ```
 
