@@ -12,11 +12,9 @@ Backend Developer @ [Lamia Oy](https://lamia.fi/)
 
 ```javascript
 const colapiombo = {
-  pronouns: "he" | "him",
   code: [Php,Javascript, Golang, HTML, CSS],
-  tools: [Node, Docker],
-  architecture: ["microservices"],
- challenge: "Improving my English, JS, PHP and Golang skills. Also I'm learning about Testing"
+  tools: [NodeJS, Docker,Etc...],
+  challenge: "Improving my English, JS, PHP and Golang skills. Also I'm learning about Testing"
 }
 ```
 
