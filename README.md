@@ -3,8 +3,11 @@
 ![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorB=%23007fff)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=colapiombo/colapiombo)
 
-I'm currently working at Lamia Oy. I´m live in Helsinki, Finland.   
-I like to explore new technologies and share knowledge.   
+I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.
+I like to explore new technologies and share knowledge.
+Backend Developer @ [![GitHub Lamia](https://img.shields.io/github/followers/thaiane?label=Lamia&style=social)](https://github.com/Lamia)
+
+
 
 
 ### A little more about me... 
