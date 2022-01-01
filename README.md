@@ -1,10 +1,7 @@
-## Hello, I'm [Paolo Combi](https://combi.li) Backend Developer @ [Lamia Oy](https://lamia.fi/)
-
+## Hello, I'm [Paolo Combi](https://combi.li) Senior Software Engineer @ [AMBOSS GmbH](https://www.amboss.com/). 
 ![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorB=%23007fff)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=colapiombo/colapiombo)  
 
-I’m currently enjoying the cold life "Beyond the Wall" in Helsinki, Finland.  
-My educational background combined with my passion, makes me extremely enthusiastic about the opportunity to embrace new technologies.
 
 ### A little more about me... 
 
