@@ -8,7 +8,6 @@
 ```javascript
 const colapiombo = {
   code: [Php,Javascript, Golang, HTML, CSS,...],
-  tools: [NodeJS, Docker,...],
   challenge: "I'm trying to improve my skills on the integration test and Golang skills"
 }
 ```
